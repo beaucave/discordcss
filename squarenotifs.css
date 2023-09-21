@@ -234,6 +234,7 @@
   transform: scale(0.9);
 }
 #app-mount .svg-2ifYOU foreignObject {
+  border-radius: var(--server-roundness, 50%);
   -webkit-mask: none !important;
           mask: none !important;
 }
