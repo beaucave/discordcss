@@ -1,9 +1,3 @@
-{
-    /* REMEMBER, NO CIRCLE */
-    border-radius: 0px !important;
-}
-
-
 :root {
   --server-unread-colour: 255, 255, 255;
   --server-hover-colour: 255, 255, 255;
